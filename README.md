@@ -31,30 +31,20 @@ The project is divided into major 7 parts:
 - Conclusion.
 
 ### About the dataset: Feature information:
-##### bank client data:
-- age (numeric)
-- job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
-- marital : marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)
-- education (categorical: 'basic.4y','basic.6y','basic.9y','high.school','illiterate','professional.course','university.degree','unknown')
-- default: has credit in default? (categorical: 'no','yes','unknown')
-- housing: has housing loan? (categorical: 'no','yes','unknown')
-- loan: has personal loan? (categorical: 'no','yes','unknown')
-
-##### data related with the last contact of the current campaign:
-Attribute 1: (qualitative) Status of existing checking account	|  Independent variable
-Attribute 2: (numerical) Duration in month |  Independent variable 		
-Attribute 3: (qualitative) Credit history |  Independent variable
-Attribute 4: (numerical) Credit amount |  Independent variable 				
-Attribute 5: (qualitative) Savings account/bonds |  Independent variable
-Attribute 6: (qualitative) Present employment since |  Independent variable
-Attribute 7: (numerical) Installment rate in percentage of disposable income |  Independent variable
-Attribute 8: (qualitative) Personal status and sex |  Independent variable
-Attribute 9: (numerical) Present residence since |  Independent variable
-Attribute 10: (numerical) Age in years |  Independent variable
-Attribute 11: (qualitative) Other installment plans |  Independent variable
-Attribute 12: (numerical) Number of existing credits at this bank |  Independent variable
-Attribute 13: (qualitative) Job |  Independent variable 	
-Attribute 14: (qualitative) status |  Dependent variable
+- Attribute 1: (qualitative) Status of existing checking account	|  Independent variable
+- Attribute 2: (numerical) Duration in month |  Independent variable 		
+- Attribute 3: (qualitative) Credit history |  Independent variable
+- Attribute 4: (numerical) Credit amount |  Independent variable 				
+- Attribute 5: (qualitative) Savings account/bonds |  Independent variable
+- Attribute 6: (qualitative) Present employment since |  Independent variable
+- Attribute 7: (numerical) Installment rate in percentage of disposable income |  Independent variable
+- Attribute 8: (qualitative) Personal status and sex |  Independent variable
+- Attribute 9: (numerical) Present residence since |  Independent variable
+- Attribute 10: (numerical) Age in years |  Independent variable
+- Attribute 11: (qualitative) Other installment plans |  Independent variable
+- Attribute 12: (numerical) Number of existing credits at this bank |  Independent variable
+- Attribute 13: (qualitative) Job |  Independent variable 	
+- Attribute 14: (qualitative) status |  Dependent variable
 
 ### Credit
 - bfsi.economictimes
