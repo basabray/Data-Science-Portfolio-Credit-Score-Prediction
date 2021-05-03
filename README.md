@@ -5,7 +5,7 @@
 # Table Of Contents:
 
 ### Objective Of The Project
-- A German banking institution needs to conduct a risk analysis by understanding the loan applicant’s profiles whenever the bank receives any loan application. The bank has to make a decision regarding whether there is a risk of ‘Bad credit’ or not.![image](https://user-images.githubusercontent.com/62828231/116933120-bce75280-ac80-11eb-8fdb-5634752b4830.png)
+- A German banking institution needs to conduct a risk analysis by understanding the loan applicant’s profiles whenever the bank receives any loan application. The bank has to make a decision regarding whether there is a risk of ‘Bad credit’ or not.
 
 
 ### What is the need of this analysis?
@@ -30,6 +30,7 @@ The project is divided into major 7 parts:
 - Model Evaluation.
 - Conclusion.
 
+
 ### About the dataset: Feature information:
 - Attribute 1: (qualitative) Status of existing checking account	|  Independent variable
 - Attribute 2: (numerical) Duration in month |  Independent variable 		
@@ -46,8 +47,10 @@ The project is divided into major 7 parts:
 - Attribute 13: (qualitative) Job |  Independent variable 	
 - Attribute 14: (qualitative) status |  Dependent variable
 
+
 ### Credit
 - bfsi.economictimes
+
 
 ### Conclusion
 
